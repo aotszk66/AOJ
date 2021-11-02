@@ -1,1 +1,5 @@
-print(1 % 1)
+s = input()
+p = input()
+
+if p in s == True:
+    print('Yes')
